@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="in.vilik.dreamcrusher.MainActivity">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableRow>
+
+            <Button
+                android:id="@+id/num1"
+                style="@style/MyBtn"
+                android:text="1" />
+
+            <Button
+                android:id="@+id/num2"
+                style="@style/MyBtn"
+                android:text="2" />
+
+            <Button
+                android:id="@+id/num3"
+                style="@style/MyBtn"
+                android:text="3" />
+
+            <Button
+                android:id="@+id/num4"
+                style="@style/MyBtn"
+                android:text="4" />
+
+            <Button
+                android:id="@+id/num5"
+                style="@style/MyBtn"
+                android:text="5" />
+
+            <Button
+                android:id="@+id/num6"
+                style="@style/MyBtn"
+                android:text="6" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/num7"
+                style="@style/MyBtn"
+                android:text="7" />
+
+            <Button
+                android:id="@+id/num8"
+                style="@style/MyBtn"
+                android:text="8" />
+
+            <Button
+                android:id="@+id/num9"
+                style="@style/MyBtn"
+                android:text="9" />
+
+            <Button
+                android:id="@+id/num10"
+                style="@style/MyBtn"
+                android:text="10" />
+
+            <Button
+                android:id="@+id/num11"
+                style="@style/MyBtn"
+                android:text="11" />
+
+            <Button
+                android:id="@+id/num12"
+                style="@style/MyBtn"
+                android:text="12" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/num13"
+                style="@style/MyBtn"
+                android:text="13" />
+
+            <Button
+                android:id="@+id/num14"
+                style="@style/MyBtn"
+                android:text="14" />
+
+            <Button
+                android:id="@+id/num15"
+                style="@style/MyBtn"
+                android:text="15" />
+
+            <Button
+                android:id="@+id/num16"
+                style="@style/MyBtn"
+                android:text="16" />
+
+            <Button
+                android:id="@+id/num17"
+                style="@style/MyBtn"
+                android:text="17" />
+
+            <Button
+                android:id="@+id/num18"
+                style="@style/MyBtn"
+                android:text="18" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/num19"
+                style="@style/MyBtn"
+                android:text="19" />
+
+            <Button
+                android:id="@+id/num20"
+                style="@style/MyBtn"
+                android:text="20" />
+
+            <Button
+                android:id="@+id/num21"
+                style="@style/MyBtn"
+                android:text="21" />
+
+            <Button
+                android:id="@+id/num22"
+                style="@style/MyBtn"
+                android:text="22" />
+
+            <Button
+                android:id="@+id/num23"
+                style="@style/MyBtn"
+                android:text="23" />
+
+            <Button
+                android:id="@+id/num24"
+                style="@style/MyBtn"
+                android:text="24" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/num25"
+                style="@style/MyBtn"
+                android:text="25" />
+
+            <Button
+                android:id="@+id/num26"
+                style="@style/MyBtn"
+                android:text="26" />
+
+            <Button
+                android:id="@+id/num27"
+                style="@style/MyBtn"
+                android:text="27" />
+
+            <Button
+                android:id="@+id/num28"
+                style="@style/MyBtn"
+                android:text="28" />
+
+            <Button
+                android:id="@+id/num29"
+                style="@style/MyBtn"
+                android:text="29" />
+
+            <Button
+                android:id="@+id/num30"
+                style="@style/MyBtn"
+                android:text="30" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/num31"
+                style="@style/MyBtn"
+                android:text="31" />
+
+            <Button
+                android:id="@+id/num32"
+                style="@style/MyBtn"
+                android:text="32" />
+
+            <Button
+                android:id="@+id/num33"
+                style="@style/MyBtn"
+                android:text="33" />
+
+            <Button
+                android:id="@+id/num34"
+                style="@style/MyBtn"
+                android:text="34" />
+
+            <Button
+                android:id="@+id/num35"
+                style="@style/MyBtn"
+                android:text="35" />
+
+            <Button
+                android:id="@+id/num36"
+                style="@style/MyBtn"
+                android:text="36" />
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/num37"
+                style="@style/MyBtn"
+                android:text="37" />
+
+            <Button
+                android:id="@+id/num38"
+                style="@style/MyBtn"
+                android:text="38" />
+
+            <Button
+                android:id="@+id/num39"
+                style="@style/MyBtn"
+                android:text="39" />
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_weight="3" />
+        </TableRow>
+    </TableLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/years"
+            android:layout_gravity="center_vertical"
+            android:textAlignment="center"/>
+    </LinearLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:text="Crush my dreams"
+        android:id="@+id/crushBtn"
+        android:onClick="crush"
+        android:enabled="false"/>
+
+</LinearLayout>
